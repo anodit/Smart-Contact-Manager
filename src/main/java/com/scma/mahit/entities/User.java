@@ -1,4 +1,4 @@
-package com.scma.anilg.entities;
+package com.scma.mahit.entities;
 
 import java.util.ArrayList;
 import java.util.List;

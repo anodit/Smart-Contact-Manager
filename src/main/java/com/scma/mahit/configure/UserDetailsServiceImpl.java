@@ -1,12 +1,12 @@
-package com.scma.anilg.configure;
+package com.scma.mahit.configure;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 
-import com.scma.anilg.dao.UserRepository;
-import com.scma.anilg.entities.User;
+import com.scma.mahit.dao.UserRepository;
+import com.scma.mahit.entities.User;
 
 public class UserDetailsServiceImpl implements UserDetailsService{
 	

@@ -1,4 +1,4 @@
-package com.scma.anilg.entities;
+package com.scma.mahit.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

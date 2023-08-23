@@ -1,4 +1,4 @@
-package com.scma.anilg.controller;
+package com.scma.mahit.controller;
 
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
@@ -14,15 +14,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.scma.anilg.dao.UserRepository;
-import com.scma.anilg.entities.User;
-import com.scma.anilg.helper.Message;
+import com.scma.mahit.dao.UserRepository;
+import com.scma.mahit.entities.User;
+import com.scma.mahit.helper.Message;
 
 @Controller
 public class HomeController {
 	
-//	@Autowired
-//    UserService userService;
 	
 	@Autowired
 	UserRepository userRepository;

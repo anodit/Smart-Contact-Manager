@@ -1,4 +1,4 @@
-package com.scma.anilg.service;
+package com.scma.mahit.service;
 
 import java.io.File;
 import java.util.Optional;
@@ -11,10 +11,10 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import com.scma.anilg.dao.ContactRepository;
-import com.scma.anilg.dao.UserRepository;
-import com.scma.anilg.entities.Contact;
-import com.scma.anilg.entities.User;
+import com.scma.mahit.dao.ContactRepository;
+import com.scma.mahit.dao.UserRepository;
+import com.scma.mahit.entities.Contact;
+import com.scma.mahit.entities.User;
 
 @Service
 @Transactional

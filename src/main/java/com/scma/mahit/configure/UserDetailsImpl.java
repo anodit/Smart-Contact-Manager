@@ -1,4 +1,4 @@
-package com.scma.anilg.configure;
+package com.scma.mahit.configure;
 
 import java.util.Collection;
 import java.util.List;
@@ -7,7 +7,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.scma.anilg.entities.User;
+import com.scma.mahit.entities.User;
 
 public class UserDetailsImpl implements UserDetails {
 

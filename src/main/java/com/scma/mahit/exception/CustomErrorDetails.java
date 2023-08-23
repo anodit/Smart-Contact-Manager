@@ -1,4 +1,4 @@
-package com.scma.anilg.exception;
+package com.scma.mahit.exception;
 
 import java.util.Date;
 

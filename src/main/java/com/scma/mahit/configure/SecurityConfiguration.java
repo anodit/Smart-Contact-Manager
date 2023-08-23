@@ -1,4 +1,4 @@
-package com.scma.anilg.configure;
+package com.scma.mahit.configure;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

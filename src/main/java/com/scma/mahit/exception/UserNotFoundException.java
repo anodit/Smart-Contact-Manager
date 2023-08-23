@@ -1,4 +1,4 @@
-package com.scma.anilg.exception;
+package com.scma.mahit.exception;
 
 public class UserNotFoundException extends Exception{
 

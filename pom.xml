@@ -9,7 +9,7 @@
 		<version>2.4.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.scma.anilg</groupId>
+	<groupId>com.scma.mahit</groupId>
 	<artifactId>smart_contact_manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>smart_contact_manager</name>

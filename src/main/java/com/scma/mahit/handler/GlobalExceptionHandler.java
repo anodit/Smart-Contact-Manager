@@ -1,9 +1,9 @@
-package com.scma.anilg.handler;
+package com.scma.mahit.handler;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.scma.anilg.exception.ImageNotFoundException;
+import com.scma.mahit.exception.ImageNotFoundException;
 
 @ControllerAdvice
 public class GlobalExceptionHandler {

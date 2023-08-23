@@ -1,4 +1,4 @@
-package com.scma.anilg.controller;
+package com.scma.mahit.controller;
 
 import java.io.File;
 import java.nio.file.Files;
@@ -27,10 +27,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.scma.anilg.entities.Contact;
-import com.scma.anilg.entities.User;
-import com.scma.anilg.helper.Message;
-import com.scma.anilg.service.UserService;
+import com.scma.mahit.entities.Contact;
+import com.scma.mahit.entities.User;
+import com.scma.mahit.helper.Message;
+import com.scma.mahit.service.UserService;
 
 @Controller
 @RequestMapping("/user")

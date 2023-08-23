@@ -1,4 +1,4 @@
-package com.scma.anilg.helper;
+package com.scma.mahit.helper;
 
 public class Message {
 	
